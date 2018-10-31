@@ -1,0 +1,16 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "cGasTap",
+      "libraryId": "1jFXuMOa__qUgc9x9AmbjMHfv2i4evG8qmylqNtCH2Oph1MiRawJR1UV-",
+      "version": "1",
+      "developmentMode": true
+    }, {
+      "userSymbol": "cNamedLock",
+      "libraryId": "1uNcsHIUpZOJIT_ZedTa2mBE_gqCo0mH5OrNJMk4NWdyCNHQfiQjYXZ6u",
+      "version": "15"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
